@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">bank_misr_login</string>
+    <string name="TextIcon">العربية</string>
+    <string name="forgot_password_username">Forgot Password/Username?</string>
+    <string name="our_products">Our Products</string>
+    <string name="exchange_rate">Exchange Rate</string>
+    <string name="security_tips">Security Tips</string>
+    <string name="nearest_branch_or_atm">Nearest Branch or ATM</string>
+    <string name="need_help">Need help?</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+</resources>
